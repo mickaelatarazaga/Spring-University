@@ -1,10 +1,8 @@
 # Spring University by [Global Mentoring](https://www.globalmentoring.com.mx/)
 
-Ejercitación del curso impartido en la plataforma de Undemy sobre Spring Boot por el Ing. Ubaldo Acosta
+El proyecto final se trata de una aplicación para el Control de clientes, pueden verlo haciendo click [AQUÍ]() 
 
-## Guía para ver los proyectos
-* Descargar este repositorio o clonarlo
-* Se encuentra dividido en carpetas según el avance del curso
+En este repositorio se muestra la ejercitación propuesta por el Ing. Ubaldo Acosta en el que paso a paso le fuimos agregando las funcionalidades necesarias al proyecto.
 
 ## Para ver más proyectos [CLICK AQUI](https://github.com/mickaelatarazaga) 
 
